@@ -1,1 +1,1 @@
-The newrRandom correlation instances.
+The new random correlation instances.
