@@ -1,0 +1,7 @@
+CP-Lib instance: abr/workers
+Optimal value: 964
+Clusters:
+{ 1 25 }
+{ 2 4 10 26 32 34 }
+{ 3 5 6 7 8 9 11 12 13 14 15 16 17 18 19 20 21 22 23 24 27 28 29 30 33 }
+{ 31 }
