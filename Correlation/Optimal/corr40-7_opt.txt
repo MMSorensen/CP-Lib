@@ -1,0 +1,6 @@
+CP-Lib instance: correlation/corr40-7
+Optimal value: 2294
+Clusters:
+{ 1 2 5 11 13 14 15 18 20 23 24 25 26 32 33 36 40 }
+{ 3 7 8 10 12 16 17 19 21 27 28 30 35 38 }
+{ 4 6 9 22 29 31 34 37 39 }
